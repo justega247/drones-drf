@@ -1,0 +1,1 @@
+An application built using django drf and test with pytest
